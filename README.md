@@ -81,7 +81,7 @@ Please switch to the appropriate branch depending on the version you would like 
 
 ## Screenshots
 
-<p align="center">
+<p align="left">
   <img src="screenshot.png" width="300"/>
+  <img src="screenshot2.png" width="300"/>
 </p>
-<!--![App Screenshot](screenshot.png)-->

@@ -66,9 +66,11 @@ Contains:
 
 ## What to improve
 
-Considering the time constraints, it was decided to make the images local.
+Considering the time constraints, it was decided to make the images local. To enable loading images from the internet we need to create:
+* A separate layer responsible for downloading images.
+* A cache layer responsible for caching images as files. It should also maintain a limit on the amount of storage space it can occupy.
 
-To enable loading images from the internet, a separate layer responsible for downloading could be added, which would use a caching layer. In that case, images in the cache would be stored as files with a required limit on the amount of storage space they occupy.
+More unit tests and UI tests also can be added.
 
 ## Branches
 

@@ -1,0 +1,118 @@
+{
+    "countries": [
+        {
+            "countryName": "England",
+            "capitalImageName": "London",
+            "cities": [
+                {
+                    "imageName": "London",
+                    "title": "London",
+                    "subtitle": "England"
+                },
+                {
+                    "imageName": "Manchester",
+                    "title": "Manchester",
+                    "subtitle": "England"
+                },
+                {
+                    "imageName": "Liverpool",
+                    "title": "Liverpool",
+                    "subtitle": "England"
+                },
+                {
+                    "imageName": "Birmingham",
+                    "title": "Birmingham",
+                    "subtitle": "England"
+                }
+            ]
+        },
+        {
+            "countryName": "France",
+            "capitalImageName": "Paris",
+            "cities": [
+                {
+                    "imageName": "Paris",
+                    "title": "Paris",
+                    "subtitle": "Paris"
+                },
+                {
+                    "imageName": "Marseille",
+                    "title": "Marseille",
+                    "subtitle": "Paris"
+                },
+                {
+                    "imageName": "Lyon",
+                    "title": "Lyon",
+                    "subtitle": "Paris"
+                },
+                {
+                    "imageName": "Le Mans",
+                    "title": "Le Mans",
+                    "subtitle": "Paris"
+                }
+            ]
+        },
+        {
+            "countryName": "Poland",
+            "capitalImageName": "Warsaw",
+            "cities": [
+                {
+                    "imageName": "Warsaw",
+                    "title": "Warsaw",
+                    "subtitle": "Warsaw"
+                },
+                {
+                    "imageName": "Krakow",
+                    "title": "Krakow",
+                    "subtitle": "Warsaw"
+                },
+                {
+                    "imageName": "Gdansk",
+                    "title": "Gdansk",
+                    "subtitle": "Warsaw"
+                },
+                {
+                    "imageName": "Wroclaw",
+                    "title": "Wroclaw",
+                    "subtitle": "Warsaw"
+                },
+                {
+                    "imageName": "Bialystok",
+                    "title": "Bialystok",
+                    "subtitle": "Warsaw"
+                }
+            ]
+        },
+        {
+            "countryName": "Italy",
+            "capitalImageName": "Rome",
+            "cities": [
+                {
+                    "imageName": "Rome",
+                    "title": "Rome",
+                    "subtitle": "Rome"
+                },
+                {
+                    "imageName": "Milan",
+                    "title": "Milan",
+                    "subtitle": "Rome"
+                },
+                {
+                    "imageName": "Venice",
+                    "title": "Venice",
+                    "subtitle": "Rome"
+                },
+                {
+                    "imageName": "Naples",
+                    "title": "Naples",
+                    "subtitle": "Rome"
+                },
+                {
+                    "imageName": "Palermo",
+                    "title": "Palermo",
+                    "subtitle": "Rome"
+                }
+            ]
+        }
+    ]
+}
